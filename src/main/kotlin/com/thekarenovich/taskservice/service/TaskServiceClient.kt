@@ -1,6 +1,6 @@
 package com.thekarenovich.taskservice.service
 
-import com.thekarenovich.task.service.*
+import com.thekarenovich.task.console.*
 import io.grpc.ManagedChannelBuilder
 import org.springframework.stereotype.Service
 

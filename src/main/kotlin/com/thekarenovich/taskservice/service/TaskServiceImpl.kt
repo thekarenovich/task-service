@@ -1,6 +1,6 @@
 package com.thekarenovich.taskservice.service
 
-import com.thekarenovich.task.service.*
+import com.thekarenovich.task.console.*
 import io.grpc.stub.StreamObserver
 import io.grpc.Status
 import org.lognet.springboot.grpc.GRpcService
