@@ -1,0 +1,3 @@
+[submodule "task-console-api"]
+	path = task-console-api
+	url = git@github.com:thekarenovich/task-console-api.git
